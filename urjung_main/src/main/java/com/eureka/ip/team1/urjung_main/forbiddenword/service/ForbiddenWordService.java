@@ -1,0 +1,7 @@
+package com.eureka.ip.team1.urjung_main.forbiddenword.service;
+
+public interface ForbiddenWordService {
+    boolean containsForbiddenWord(String text);
+    String censor (String text);
+    void reloadForbiddenWords();
+}
