@@ -17,7 +17,7 @@
 - 사용 성향 맞춤 분석을 통한 추천 개인화  
 - 멀티턴 대화를 통한 지능현 대화 시스템  
 
-프로젝트에 대한 더 많은 내용등은 Wiki에 등록되어있습니다.
+프로젝트에 대한 더 많은 내용들은 [Wiki](https://github.com/taeaeaexin/URECA-Middle-Yoplait/wiki)에 등록되어있습니다.
 
 <br>
 
